@@ -53,4 +53,4 @@ BitShares Mobile App is under the MIT license. See [LICENSE](https://github.com/
 for more information.
 
 ## Contact us
-If you have any questions, please contact us via the [Telegram](https://t.me/btsplusplus) group.
+If you have any questions, please contact BTS++ via the [Telegram](https://t.me/btsplusplus) group.
